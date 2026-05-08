@@ -165,7 +165,7 @@ Options:
 ### Clone the repository
 
 
-git clone https://github.com/yourusername/opsbuddy.git
+git clone https://github.com/Davas2/opsbuddy.git
 
 cd opsbuddy
 
